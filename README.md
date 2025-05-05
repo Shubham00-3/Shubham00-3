@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-<h1 align="center">Hi 👋, I'm Shubham Gangwar</h1>
+<h1 align="center">Hi 👋, I'm Shubham </h1>
 <h3 align="center">A passionate DevOps enthusiast building the future of infrastructure</h3>
 
 <p align="center">
