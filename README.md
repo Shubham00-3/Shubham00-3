@@ -83,7 +83,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<div align="center">
-  <h3>🤝 Support</h3>
-  <p>🌟 If you like my projects, give them a star!</p>
-</div>
+
