@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=shubham00-3&label=Profile%20views&color=0e75b6&style=flat" alt="shubham00-3" />
 </p>
 
-# 👋 Hi, I'm Shubham Gangwar (@Shubham00-3)
 
 ## 🧠 AI Engineering Enthusiast | Building Intelligent Document Systems
 
