@@ -9,63 +9,57 @@
   <img src="https://komarev.com/ghpvc/?username=shubham00-3&label=Profile%20views&color=0e75b6&style=flat" alt="shubham00-3" />
 </p>
 
-## 🚀 About Me
-- 🌱 I'm currently mastering **Docker, Kubernetes & Jenkins**
-- 🔭 Working on building my DevOps project portfolio
-- 🌍 Passionate about cloud-native technologies and infrastructure automation
-- 📚 Continuously learning about CI/CD pipelines and Infrastructure as Code
-- 📫 Reach me at **shubhamgangwar244@gmail.com**
+👋 Hi, I'm Shubham Gangwar (@Shubham00-3)
+🧠 AI Engineering Enthusiast | Building Intelligent Document Systems
+I'm on a journey to master AI engineering through hands-on projects, with a special focus on:
 
-## 🛠️ Tech Stack
+📚 Retrieval-Augmented Generation (RAG) systems
+📄 Legal document analysis and processing
+🤖 Multi-agent AI systems
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🔭 Current Projects
+RAG-based Question Answering System
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+Building a simple yet powerful RAG QA system using single text file input
+Implementing vector embeddings for semantic search
+Exploring different retrieval methods to optimize answer accuracy
+Developing a clean, intuitive interface for natural language queries
 
-### Databases
+Legal Document Analyzer for India
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+Creating a specialized system for Indian legal documents
+Developing document parsing capabilities for various legal formats
+Implementing entity extraction for key legal concepts and clauses
+Building multi-agent systems for complex document analysis
+Working with vector databases for efficient information retrieval
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+🛠️ Tech Stack
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham00-3&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham00-3&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
+Languages: Python
+ML/AI: LangChain, HuggingFace Transformers, OpenAI API
+Vector Databases: Chroma, FAISS
+Deployment: FastAPI, Streamlit
+Version Control: Git/GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham00-3&theme=radical" alt="GitHub Streak"/>
-</div>
+📚 Learning Path
+I'm following a project-based learning approach to AI engineering, starting with the fundamentals and gradually tackling more complex challenges:
 
-## 🏆 DevOps Learning Journey
-```
-🔄 CI/CD Pipeline Implementation
-├── ✅ Git Version Control
-├── ⏳ Jenkins Automation
-└── 🔜 GitOps with ArgoCD
+✅ Understanding vector embeddings and similarity search
+✅ Building basic RAG systems
+🔄 Implementing document processing pipelines
+🔄 Developing multi-agent architectures
+🔜 Optimizing for specialized domains (legal tech)
+🔜 Scaling and production deployment
 
-🐳 Containerization & Orchestration
-├── ✅ Docker Basics
-├── ⏳ Docker Compose
-└── 🔜 Kubernetes Management
+📫 Connect With Me
 
-☁️ Cloud Infrastructure
-├── ✅ AWS Fundamentals
-├── ⏳ Infrastructure as Code
-└── 🔜 Cloud-Native Monitoring
-```
+LinkedIn: Shubham Gangwar
+Email: [your-email@example.com]
+
+🤝 Open to Collaboration
+I'm always interested in collaborating on AI projects, especially in the legal tech domain. If you're working on something similar or have ideas to share, feel free to reach out!
+
+⭐ "Building intelligent systems one project at a time" ⭐
 
 ## 🔗 Connect with me:
 <p align="center">
