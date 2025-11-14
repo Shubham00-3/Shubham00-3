@@ -1,72 +1,46 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+# Shubham Gangwar
 
-<h1 align="center">Hi 👋, I'm Shubham </h1>
+**Full-Stack AI Engineer** | Computer Science Student at VIT AP University
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham00-3&label=Profile%20views&color=0e75b6&style=flat" alt="shubham00-3" />
-</p>
-
-
-## 🧠 AI Engineering Enthusiast | Building Intelligent Document Systems
-
-I'm on a journey to master AI engineering through hands-on projects, with a special focus on:
-- 📚 Retrieval-Augmented Generation (RAG) systems
-- 📄 Legal document analysis and processing
-- 🤖 Multi-agent AI systems
-
-## 🔭 Current Projects
-
-### RAG-based Question Answering System
-- Building a simple yet powerful RAG QA system using single text file input
-- Implementing vector embeddings for semantic search
-- Exploring different retrieval methods to optimize answer accuracy
-- Developing a clean, intuitive interface for natural language queries
-
-### Legal Document Analyzer for India
-- Creating a specialized system for Indian legal documents
-- Developing document parsing capabilities for various legal formats
-- Implementing entity extraction for key legal concepts and clauses
-- Building multi-agent systems for complex document analysis
-- Working with vector databases for efficient information retrieval
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python
-- **ML/AI**: LangChain, HuggingFace Transformers, OpenAI API
-- **Vector Databases**: Chroma, FAISS
-- **Deployment**: FastAPI, Streamlit
-- **Version Control**: Git/GitHub
-
-## 📚 Learning Path
-
-I'm following a project-based learning approach to AI engineering, starting with the fundamentals and gradually tackling more complex challenges:
-
-1. ✅ Understanding vector embeddings and similarity search
-2. ✅ Building basic RAG systems
-3. 🔄 Implementing document processing pipelines
-4. 🔄 Developing multi-agent architectures
-5. 🔜 Optimizing for specialized domains (legal tech)
-6. 🔜 Scaling and production deployment
-
-## 📫 Connect With Me
-
-- LinkedIn: [Shubham Gangwar](https://www.linkedin.com/in/shubham-gangwar)
-- Email: shubhamgangwar244@gmail.com
-
-## 🤝 Open to Collaboration
-
-I'm always interested in collaborating on AI projects, especially in the legal tech domain. If you're working on something similar or have ideas to share, feel free to reach out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shubham-gangwar)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shubhamgangwar244@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shubham00-3)
 
 ---
 
-⭐ *"Building intelligent systems one project at a time"* ⭐
+## About Me
+
+Fourth-year CS student specializing in production-ready AI applications and full-stack development. I build scalable systems combining modern web technologies with advanced AI/ML capabilities.
+
+## Featured Projects
+
+**[Research Reasoner](https://github.com/Shubham00-3/research-reasoner)** | [Live Demo](https://research-reasoner.vercel.app)  
+AI research platform processing 400+ papers with GraphRAG architecture and Neo4j knowledge graphs. Achieved 89.3% accuracy using vector embeddings and multi-step reasoning. Deployed on Railway and Vercel with Docker containerization.
+
+**[Resume Tailor AI](https://github.com/Shubham00-3/resume-tailor)** | [Live Demo](https://resume-tailor.vercel.app)  
+Production-grade resume optimizer using LangGraph and Groq's LLM API. Features 3-stage AI pipeline reducing tailoring time from 2+ hours to 30 seconds. Built with FastAPI and React.
+
+**Indian Legal Document Analyzer**  
+RAG-based QA system for legal document analysis with LangChain, vector embeddings, and retrieval-augmented generation with citations.
+
+## Technical Skills
+
+**Languages:** JavaScript, TypeScript, Python, Java, SQL  
+**Backend:** Node.js, Express.js, FastAPI  
+**AI/ML:** LangChain, LangGraph, Multi-Agent RAG, GraphRAG, Vector Embeddings, Prompt Engineering  
+**Infrastructure:** Docker, Neo4j, MongoDB, AWS, Railway, Vercel, Git
+
+## Certifications
+
+- Microsoft Certified: Azure AI Fundamentals
+- Oracle Cloud Infrastructure 2023 Certified Generative AI Professional
+
+## Currently
+
+Seeking internship opportunities in AI Engineering, Full-Stack Development, and Backend Development. Open to collaboration on AI projects.
+
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <i>Building intelligent systems through production-ready applications</i>
 </div>
-
-
