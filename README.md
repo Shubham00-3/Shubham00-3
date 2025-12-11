@@ -4,7 +4,7 @@
   <p><i>Building intelligent systems through production-ready applications</i></p>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-shubhamgangwar.me-70d1f4?style=for-the-badge&logo=safari&logoColor=black)](https://shubhamgangwar.me)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-gangwar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-gangwar-a33b53204/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamgangwar244@gmail.com)
 
 </div>
@@ -42,8 +42,12 @@
 | **[Resume Tailor AI](https://resume-tailor.vercel.app)** | **LangGraph • Groq • React**<br>Production-grade agentic workflow reducing manual work by 95%. |
 | **Legal Doc Analyzer** | **RAG • Vector Embeddings**<br>Citation-aware QA system for Indian legal documents. |
 
+### 📈 Stats
+
 <div align="center">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham00-3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham00-3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+
+[![Shubham's Stats](https://github-readme-stats.vercel.app/api?username=Shubham00-3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shubham00-3)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham00-3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Shubham00-3)
+
 </div>
