@@ -42,9 +42,4 @@
 | **[Resume Tailor AI](https://resume-tailor.vercel.app)** | **LangGraph • Groq • React**<br>Production-grade agentic workflow reducing manual work by 95%. |
 | **Legal Doc Analyzer** | **RAG • Vector Embeddings**<br>Citation-aware QA system for Indian legal documents. |
 
-### 📈 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham00-3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham00-3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
